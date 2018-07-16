@@ -1,5 +1,5 @@
 # PermissionGrantor
-## A library of handles Android's dynamic permissions
+## A kotlin library of handles Android's dynamic permissions
 
 
 
