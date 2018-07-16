@@ -22,9 +22,8 @@
 * choose the permission instance in the `Permission.kt`  you need
 * use `fun handlePermission(permission: Permission, permissionGrantListener: PermissionGrantListener) `  or `fun handlePermission(permission: Permission, permissionGrantListener: PermissionGrantListener) `  to handle single request and multi-request
 
-···kotlin 
 
-```
+```kotlin
 class MainActivity : AppCompatActivity() {
     private lateinit var permissionGrantor: PermissionGrantor
 
