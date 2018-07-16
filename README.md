@@ -45,7 +45,6 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-···
 
 ```kotlin
 // handle single permission request
@@ -81,6 +80,6 @@ permissionGrantor.handlePermissions(Permission.calendar(), Permission.storage(),
 
 end
 
-
+just a study project.
 
 If you have any questions, please leave a message to me.
